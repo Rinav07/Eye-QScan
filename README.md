@@ -1,16 +1,13 @@
-# q_eyedefender
+# Eye-QScan
 
-A new Flutter project.
+With just one system that is simple to use and intuitive for both the doctors and the patients, Eye-QScan is a mobile application equipped with a deep learning model that uses a hybrid quantum-classical image classifier using transfer learning for early detection of diabetic retinopathy so that it can be treated in time and helps in preventing blindness in diabetic patients. 
+
+
+
+https://github.com/Rinav07/Eye-QScan/assets/77344616/49295a38-29ac-401d-9bb7-3f6b7becacaf
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
